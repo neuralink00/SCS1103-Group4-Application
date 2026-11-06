@@ -15,7 +15,7 @@
 | Muzhinji Tapiwanashe| N02646931X | Nashe-OnGit | Research | 
 | Tawanda M Chidembo| N02654074M | chtawanda | Build|
 | Daniel A Nyamusoro| N02641231X | Anoe-thaDev | Designer |
-| Member 12| To be filled | To be filled | To be filled |
+| Manduna N Loreen | N2643308W| neuralink00 | Research   |
 | Member 13| To be filled | To be filled |  To be filled|
 | Member 14| To be filled | To be filled | To be filled |
 | Member 15| To be filled | To be filled | To be filled |
